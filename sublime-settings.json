@@ -1,34 +1,43 @@
 {
   "bold_folder_labels": true,
-  "caret_style": "phase",
-  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-  "ensure_newline_at_eof_on_save": true,
-  "file_exclude_patterns": [
-    ".gitkeep",
-    ".DS_Store",
-    "*.log",
-    "*.sassc",
-    "*.scssc"
-  ],
-  "folder_exclude_patterns": [
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    ".bundle",
-    ".sass-cache",
-    "index"
-  ],
-  "font_face": "Monaco",
-  "font_size": 10.0,
-  "font_options": [ "no_antialias" ],
-  "highlight_line": true,
-  "ignored_packages": [ "Vintage" ],
-  "line_numbers": true,
-  "match_brackets": true,
-  "remeber_open_files": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "word_wrap": false
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".gitkeep",
+		".DS_Store",
+		"*.log",
+		"*.sassc",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		".sass-cache",
+		"index"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_antialias"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"match_brackets": true,
+	"remeber_open_files": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
