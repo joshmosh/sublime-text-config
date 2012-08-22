@@ -1,5 +1,5 @@
 {
-	"bold_folder_labels": true,
+  "bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -19,12 +19,13 @@
 		"CVS",
 		".bundle",
 		".sass-cache",
-		"index"
+		"index",
+		"node_modules"
 	],
 	"font_face": "Monaco",
 	"font_options":
 	[
-		"no_antialias"
+		"no_bold", "no_italic", "no_antialias"
 	],
 	"font_size": 10.0,
 	"highlight_line": true,
