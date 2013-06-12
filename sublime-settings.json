@@ -1,7 +1,8 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Solarized (dark).tmTheme",
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -13,6 +14,7 @@
 	],
 	"folder_exclude_patterns":
 	[
+		".app",
 		".svn",
 		".git",
 		".hg",
@@ -22,19 +24,21 @@
 		"index",
 		"node_modules"
 	],
-	"font_face": "Droid Sans Mono",
+	"font_face": "Menlo",
 	"font_options":
 	[
 		"no_bold",
 		"no_italic"
 	],
-	"font_size": 13.0,
+	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"line_numbers": true,
 	"match_brackets": true,
 	"remeber_open_files": true,
