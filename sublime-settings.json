@@ -1,7 +1,7 @@
 {
-	"bold_folder_labels": true,
+  "bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/Tomorrow.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -37,9 +37,9 @@
 	[
 		"Vintage"
 	],
+	"line_numbers": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"line_numbers": true,
 	"match_brackets": true,
 	"remeber_open_files": true,
 	"spell_check": true,
