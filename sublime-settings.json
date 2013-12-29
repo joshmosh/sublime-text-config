@@ -1,51 +1,50 @@
 {
-  "bold_folder_labels": true,
-  "caret_style": "phase",
-  "color_scheme": "Packages/Tomorrow.tmTheme",
-  "draw_white_space": "all",
-  "ensure_newline_at_eof_on_save": true,
-  "file_exclude_patterns":
-  [
-    ".gitkeep",
-    ".DS_Store",
-    "*.log",
-    "*.sassc",
-    "*.scssc"
-  ],
-  "folder_exclude_patterns":
-  [
-    ".app",
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    ".bundle",
-    ".sass-cache",
-    "index",
-    "node_modules"
-  ],
-  "font_face": "Menlo",
-  "font_options":
-  [
-    "no_bold",
-    "no_italic"
-  ],
-  "font_size": 12.0,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "line_numbers": true,
-  "line_padding_bottom": 1,
-  "line_padding_top": 1,
-  "match_brackets": true,
-  "remeber_open_files": true,
-  "spell_check": true,
-  "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "word_wrap": false
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".gitkeep",
+		".DS_Store",
+		"*.log",
+		"*.sassc",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".app",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".bundle",
+		".sass-cache",
+		"index",
+		"node_modules"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic"
+	],
+	"font_size": 13.5,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"remeber_open_files": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
