@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -27,10 +27,9 @@
 	"font_face": "Consolas",
 	"font_options":
 	[
-		"no_bold",
 		"no_italic"
 	],
-	"font_size": 13.5,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -38,12 +37,11 @@
 		"Vintage"
 	],
 	"line_numbers": true,
-	"line_padding_top": 1,
 	"match_brackets": true,
 	"remeber_open_files": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
